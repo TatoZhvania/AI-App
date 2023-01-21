@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AI-App/static/css/main.a5948956.css",
+    "main.js": "/AI-App/static/js/main.a6a4dcb9.js",
+    "static/media/ai.png": "/AI-App/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/AI-App/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/people.png": "/AI-App/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/AI-App/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/AI-App/index.html",
+    "main.a5948956.css.map": "/AI-App/static/css/main.a5948956.css.map",
+    "main.a6a4dcb9.js.map": "/AI-App/static/js/main.a6a4dcb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5948956.css",
+    "static/js/main.a6a4dcb9.js"
+  ]
+}
